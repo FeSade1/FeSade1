@@ -9,16 +9,16 @@
 	"name": "Felipe Sade",
 	"located_in": "Curitiba - Paraná",
 	"current_job": "Full Stack Developer",
+ "technical_background": [
+		"Full Stack Developer",
+		"Technology Specialist",
+		"Backend Web Developer"
+	]
 	"education": [
 		"B.Sc. in Software Engineering (In progress) - Universidade Positivo",
 		"Self-taught Developer"
 	],
 	"hobbies": ["Music", "Gaming", "Cinema"],
-	"technical_background": [
-		"Full Stack Developer",
-		"Technology Specialist",
-		"Backend Web Developer"
-	]
 }
 ```
 ---
