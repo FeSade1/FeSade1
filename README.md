@@ -25,6 +25,8 @@
 	  ],
 	  "frameworks_and_libraries": [
 	    "Flask",
+     "Selenium",
+     "Requests",
 	    "Flutter",
 	    "Node.js",
 	    "React"
