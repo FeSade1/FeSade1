@@ -1,7 +1,7 @@
 ### 🔗 Connect with me
 
 <div display="flex">
-  <a href="https://instagram.com/_fesade/">
+  <a href="https://instagram.com/_fesade">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 .
