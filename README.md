@@ -1,16 +1,40 @@
-## Hi there 👋
-
-<!--
-**FeSade1/FeSade1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+	"name": "Felipe Sade",
+	"located_in": "Curitiba - Paraná",
+	"current_job": "Full Stack Developer",
+	"education": [
+		"B.Sc. in Software Engineering (In progress) - Universidade Positivo",
+		"Self-taught Developer"
+	],
+	"hobbies": ["Music", "Gaming", "Cinema"],
+	"technical_background": [
+		"Full Stack Developer",
+		"Technology Specialist",
+		"Backend Web Developer"
+	],
+	"languages": [
+	    "Python",
+	    "Dart",
+	    "JavaScript",
+	    "TypeScript",
+	    "HTML",
+	    "CSS"
+	  ],
+	  "frameworks_and_libraries": [
+	    "Flask",
+	    "Flutter",
+	    "Node.js",
+	    "React"
+	  ],
+	  "concepts_and_techniques": [
+	    "APIs",
+	    "RPA (Robotic Process Automation)",
+	    "Multi-threading"
+	  ],
+	  "tools": [
+	    "Postman",
+	    "VS Code"
+	  ]
+}
+```
