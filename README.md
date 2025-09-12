@@ -27,6 +27,7 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2?style=flat-square&logo=dart&logoColor=white" />
+<img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=dart&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=black" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html&logoColor=white" />
