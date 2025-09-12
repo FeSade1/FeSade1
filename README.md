@@ -9,7 +9,7 @@
 	"name": "Felipe Sade",
 	"located_in": "Curitiba - Paraná",
 	"current_job": "Full Stack Developer",
- "technical_background": [
+  "technical_background": [
 		"Full Stack Developer",
 		"Technology Specialist",
 		"Backend Web Developer"
