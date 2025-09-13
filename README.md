@@ -64,4 +64,8 @@
 [![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fesade1&theme=dracula&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesade1&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+![Snake animation](https://github.com/fesade1/fesade1/blob/output/github-contribution-grid-snake.svg)
+
 
