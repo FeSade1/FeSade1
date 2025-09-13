@@ -10,13 +10,13 @@
  "located_in": "Curitiba - Paraná",
  "current_job": "Full Stack Developer",
  "technical_background": [
-   "Full Stack Developer",
-   "Technology Specialist",
-   "Backend Web Developer"
+    "Full Stack Developer",
+    "Technology Specialist",
+    "Backend Web Developer"
  ],
  "education": [
-   "B.Sc. in Software Engineering (In progress) - Universidade Positivo",
-   "Self-taught Developer"
+    "B.Sc. in Software Engineering (In progress) - Universidade Positivo",
+    "Self-taught Developer"
  ],
  "hobbies": ["Music", "Gaming", "Cinema"],
 }
@@ -27,7 +27,7 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2?style=flat-square&logo=dart&logoColor=white" />
-<img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=black" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html&logoColor=white" />
@@ -38,6 +38,12 @@
   <img alt="React" src="https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7?style=flat-square&logo=vsc&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-121013?style=flat-square&logo=github&logoColor=white" />
+ 
 </p>
 
 ---
@@ -45,11 +51,12 @@
 ### 🔗 Connect with me
 
 <div display="flex">
-<a href="https://www.linkedin.com/in/fesade/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+ <a href="https://www.linkedin.com/in/fesade/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
   </a>
+ 
  <a href="https://instagram.com/_fesade">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 
