@@ -65,8 +65,9 @@
   <img height=200 align="center" src="https://github-readme-stats-seven-dun-38.vercel.app/api?username=fesade1&theme=dracula&hide_rank=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-seven-dun-38.vercel.app/api/top-langs/?username=fesade1&theme=dracula&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-seven-dun-38.vercel.app/api/top-langs/?username=fesade1&theme=dracula&layout=compact&langs_count=8&card_width=320&exclude_repo=github-readme-stats,anuraghazra.github.io)" />
 </a>
+
 
 
 
